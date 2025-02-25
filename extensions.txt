@@ -2,5 +2,4 @@ xlrd
 openpyxl
 pandas
 plotly
-matplotlib
 streamlit
